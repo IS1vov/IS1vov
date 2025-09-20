@@ -2,7 +2,6 @@
 
 🎯 **Junior Python Developer / Data Scientist** with experience in data preprocessing, feature engineering, and building ML models (Random Forest, XGBoost, Logistic Regression).  
 💡 Skilled in SQL-based data analysis, visualization, and delivering actionable insights.  
-📚 Currently pursuing a **BSc in IT at Vilnius TECH (GPA: 9.1/10)**.  
 🌍 Open to junior roles in **Data Science, Data Engineering, or Python Development**.  
 
 ---
@@ -20,7 +19,7 @@
 - [**Telegram Bot**](https://github.com/IS1vov/TelegramBot) – Python-based automation with integration features  
 - [**CRUD App**](https://github.com/IS1vov/crud) – cleanly structured CRUD application with SQL logic  
 - [**Bookstore (Python Project)**](https://github.com/IS1vov/Bookstore) – modular Python project with data handling and file management  
-- [**ML Notebooks**](#) – data preprocessing, feature engineering, and predictive modeling (Random Forest, XGBoost, Logistic Regression)  
+
 
 ---
 
