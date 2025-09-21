@@ -18,7 +18,9 @@
 ## 📌 Featured Projects
 
 - [**CRUD App**](https://github.com/IS1vov/crud) – cleanly structured CRUD application with SQL logic  
-- [**Bookstore (Python Project)**](https://github.com/IS1vov/Bookstore) – modular Python project with data handling and file management  
+- [**Bookstore (Python Project)**](https://github.com/IS1vov/Bookstore) – modular Python project with data handling and file management
+- [**File Manager with gui**](https://github.com/IS1vov/file-manager-gui) - simple cross-platform file manager with a graphical interface built using Python and Tkinter.
+- [**Written digit recognizer**](https://github.com/IS1vov/digit_recognizer) - application to recognize handwritten digits using a pre-trained Convolutional Neural Network (CNN)
 
 
 ---
